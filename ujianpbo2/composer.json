@@ -1,0 +1,17 @@
+{
+    "name": "dafkh/ujianpbo2",
+    "description": "Ujian PBO2",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Dafkh\\Ujianpbo2\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "khairuonwork",
+            "email": "khairulammardaffa@gmail.com"
+        }
+    ],
+    "require": {}
+}
